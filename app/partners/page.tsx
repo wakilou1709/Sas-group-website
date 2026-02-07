@@ -8,7 +8,7 @@ import Header from '../components/Header';
 export default function PartnersPage() {
   const { t } = useLanguage();
 
-  const partners = t.partnersPage.partners.map((partner: any, index: number) => ({
+  const partners = t.partnersPage.partnersList.map((partner: any, index: number) => ({
     ...partner,
     logo: ['🌐', '🇹🇿', '⚡', '💧', '🚰', '☁️', '🎓', '🏦'][index],
     website: index === 0 ? 'https://www.thethingsstack.com' : index === 5 ? 'https://aws.amazon.com' : '#',
@@ -24,7 +24,7 @@ export default function PartnersPage() {
     ][index]
   }));
 
-  const certifications = t.partnersPage.certifications.map((cert: any) => ({
+  const certifications = t.partnersPage.certificationsList.map((cert: any) => ({
     ...cert,
     icon: Award
   }));
@@ -138,7 +138,7 @@ export default function PartnersPage() {
               className="text-center mb-12"
             >
               <h2 className="text-3xl md:text-4xl font-bold mb-4">
-                {t.partnersPage.certifications}
+                {t.partnersPage.certificationsTitle}
               </h2>
               <p className="text-foreground/70 max-w-2xl mx-auto">
                 {t.partnersPage.certificationsDesc}

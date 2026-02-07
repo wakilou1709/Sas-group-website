@@ -240,7 +240,7 @@ export const sw = {
     subtitle: "Ushirikiano wa kimkakati kwa miradi ya ubora katika Afrika Mashariki na Magharibi.",
     strategicPartners: "Washirika wa Kimkakati",
     strategicPartnersDesc: "Tunashirikiana na mashirika ya kiongozi katika nyanja zao kuhakikisha ubora katika miradi yetu.",
-    certifications: "Vyeti na Idhini",
+    certificationsTitle: "Vyeti na Idhini",
     certificationsDesc: "Vyeti vyetu vinaonyesha dhamira yetu kwa ubora na ufaulu.",
     becomePartnerTitle: "Kuwa mshirika wetu",
     becomePartnerDesc: "Je, ungependa kushirikiana na SAS Group kwenye miradi ya miundombinu, maji au teknolojia? Wasiliana nasi kujadili fursa.",
@@ -253,7 +253,7 @@ export const sw = {
       education: "Elimu na Utafiti",
       finance: "Fedha"
     },
-    partners: [
+    partnersList: [
       { name: 'The Things Stack', category: 'IoT na Teknolojia', description: 'Jukwaa la IoT kwa mfumo wetu wa Wateri wa usimamizi mahiri wa mita za maji.' },
       { name: 'Wizara ya Miundombinu - Tanzania', category: 'Serikali', description: 'Mshirika wa kimkakati kwa miradi ya miundombinu na ujenzi Tanzania.' },
       { name: 'SONABEL', category: 'Nishati', description: 'Kampuni ya taifa ya umeme ya Burkina Faso kwa miradi yetu ya miundombinu.' },
@@ -263,7 +263,7 @@ export const sw = {
       { name: 'Chuo Kikuu cha Ouagadougou', category: 'Elimu na Utafiti', description: 'Ushirikiano wa utafiti na maendeleo ya suluhisho za ubunifu.' },
       { name: 'Benki ya Maendeleo ya Afrika Mashariki', category: 'Fedha', description: 'Mshirika wa kifedha kwa miradi yetu mikubwa ya miundombinu.' }
     ],
-    certifications: [
+    certificationsList: [
       { title: 'ISO 9001:2015', description: 'Cheti cha ubora wa kimataifa' },
       { title: 'ISO 14001', description: 'Usimamizi wa mazingira' },
       { title: 'OHSAS 18001', description: 'Afya na usalama kazini' },

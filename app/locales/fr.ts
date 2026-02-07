@@ -240,7 +240,7 @@ export const fr = {
     subtitle: "Des collaborations stratégiques pour des projets d'excellence en Afrique de l'Est et de l'Ouest.",
     strategicPartners: "Partenaires Stratégiques",
     strategicPartnersDesc: "Nous collaborons avec des organisations leaders dans leurs domaines pour garantir l'excellence de nos projets.",
-    certifications: "Certifications & Agréments",
+    certificationsTitle: "Certifications & Agréments",
     certificationsDesc: "Nos certifications témoignent de notre engagement envers la qualité et l'excellence.",
     becomePartnerTitle: "Devenez notre partenaire",
     becomePartnerDesc: "Vous souhaitez collaborer avec SAS Group sur des projets d'infrastructure, d'eau ou de technologies ? Contactez-nous pour discuter des opportunités.",
@@ -253,7 +253,7 @@ export const fr = {
       education: "Éducation & R&D",
       finance: "Finance"
     },
-    partners: [
+    partnersList: [
       { name: 'The Things Stack', category: 'IoT & Technologies', description: 'Plateforme IoT pour notre système Wateri de gestion intelligente des compteurs d\'eau.' },
       { name: 'Ministère des Infrastructures - Tanzanie', category: 'Gouvernement', description: 'Partenaire stratégique pour les projets d\'infrastructure et de construction en Tanzanie.' },
       { name: 'SONABEL', category: 'Énergie', description: 'Société nationale d\'électricité du Burkina Faso pour nos projets d\'infrastructure.' },
@@ -263,7 +263,7 @@ export const fr = {
       { name: 'Université de Ouagadougou', category: 'Éducation & R&D', description: 'Partenariat pour la recherche et le développement de solutions innovantes.' },
       { name: 'East African Development Bank', category: 'Finance', description: 'Partenaire financier pour nos grands projets d\'infrastructure.' }
     ],
-    certifications: [
+    certificationsList: [
       { title: 'ISO 9001:2015', description: 'Certification qualité internationale' },
       { title: 'ISO 14001', description: 'Management environnemental' },
       { title: 'OHSAS 18001', description: 'Santé et sécurité au travail' },

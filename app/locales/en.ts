@@ -240,7 +240,7 @@ export const en = {
     subtitle: "Strategic collaborations for excellence projects in East and West Africa.",
     strategicPartners: "Strategic Partners",
     strategicPartnersDesc: "We collaborate with leading organizations in their fields to ensure excellence in our projects.",
-    certifications: "Certifications & Accreditations",
+    certificationsTitle: "Certifications & Accreditations",
     certificationsDesc: "Our certifications demonstrate our commitment to quality and excellence.",
     becomePartnerTitle: "Become our partner",
     becomePartnerDesc: "Would you like to collaborate with SAS Group on infrastructure, water or technology projects? Contact us to discuss opportunities.",
@@ -253,7 +253,7 @@ export const en = {
       education: "Education & R&D",
       finance: "Finance"
     },
-    partners: [
+    partnersList: [
       { name: 'The Things Stack', category: 'IoT & Technologies', description: 'IoT platform for our Wateri smart water meter management system.' },
       { name: 'Ministry of Infrastructure - Tanzania', category: 'Government', description: 'Strategic partner for infrastructure and construction projects in Tanzania.' },
       { name: 'SONABEL', category: 'Energy', description: 'National electricity company of Burkina Faso for our infrastructure projects.' },
@@ -263,7 +263,7 @@ export const en = {
       { name: 'University of Ouagadougou', category: 'Education & R&D', description: 'Partnership for research and development of innovative solutions.' },
       { name: 'East African Development Bank', category: 'Finance', description: 'Financial partner for our major infrastructure projects.' }
     ],
-    certifications: [
+    certificationsList: [
       { title: 'ISO 9001:2015', description: 'International quality certification' },
       { title: 'ISO 14001', description: 'Environmental management' },
       { title: 'OHSAS 18001', description: 'Occupational health and safety' },
